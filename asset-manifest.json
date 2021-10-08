@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Practica-Desarrollo-de-aplicaciones-moviles/static/css/main.b31e57c5.chunk.css",
+    "main.js": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/main.9177b5c8.chunk.js",
+    "main.js.map": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/main.9177b5c8.chunk.js.map",
+    "runtime-main.js": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/runtime-main.cd78f864.js",
+    "runtime-main.js.map": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/runtime-main.cd78f864.js.map",
+    "static/js/2.5f3aafea.chunk.js": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/2.5f3aafea.chunk.js",
+    "static/js/2.5f3aafea.chunk.js.map": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/2.5f3aafea.chunk.js.map",
+    "index.html": "/Practica-Desarrollo-de-aplicaciones-moviles/index.html",
+    "static/css/main.b31e57c5.chunk.css.map": "/Practica-Desarrollo-de-aplicaciones-moviles/static/css/main.b31e57c5.chunk.css.map",
+    "static/js/2.5f3aafea.chunk.js.LICENSE.txt": "/Practica-Desarrollo-de-aplicaciones-moviles/static/js/2.5f3aafea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd78f864.js",
+    "static/js/2.5f3aafea.chunk.js",
+    "static/css/main.b31e57c5.chunk.css",
+    "static/js/main.9177b5c8.chunk.js"
+  ]
+}
